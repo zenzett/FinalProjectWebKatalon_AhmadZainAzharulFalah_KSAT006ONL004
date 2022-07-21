@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Zain-TC Login Website
+Description: </description>
+   <name>WP-9 Zain-TC Login Website</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:[],&quot;customfield_10025&quot;:&quot;10000_*:*_1_*:*_553384625_*|*_10001_*:*_1_*:*_0&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0003j:&quot;},&quot;status&quot;:{&quot;id&quot;:10001,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar2.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/status/10001&quot;,&quot;name&quot;:&quot;Done&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;WP&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Web Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Zain-TC Login Website&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;zainazharul@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Zain&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d62c4eb89159944bf768895e1&quot;},&quot;resolution&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;Work has been completed on this issue.&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/resolution/10000&quot;,&quot;name&quot;:&quot;Done&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/WP-9/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/10017&quot;,&quot;key&quot;:&quot;WP-9&quot;,&quot;id&quot;:10017}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>ece8c6c6-4bc9-4753-a77d-6eda79a1f27f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rp_thehanger-icons-shopping-bag</name>
+   <tag></tag>
+   <elementGuidId>06c65cbc-d5ca-4421-9c31-0ebf89ebb336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.thehanger-icons-shopping-bag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>15ac0c33-4271-4835-a0fa-15a2359c41ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thehanger-icons-shopping-bag</value>
+      <webElementGuid>2ab87e80-6541-45ae-9565-b4b3db79926d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;product-template-default single single-product postid-26 logged-in wp-embed-responsive theme-the-hanger woocommerce woocommerce-page woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full  footer-layout-boxed&quot;]/div[@class=&quot;site-wrapper&quot;]/header[@class=&quot;site-header site-header-style-1 header-normal&quot;]/div[@class=&quot;row small-collapse&quot;]/div[@class=&quot;small-12 columns&quot;]/div[@class=&quot;header-content&quot;]/div[@class=&quot;header-line-1&quot;]/div[@class=&quot;row align-middle&quot;]/div[@class=&quot;small-12 medium-8 large-9 columns&quot;]/div[@class=&quot;header-line-1-wrapper&quot;]/ul[@class=&quot;header-tools&quot;]/li[@class=&quot;header-cart&quot;]/a[@class=&quot;hover&quot;]/i[@class=&quot;thehanger-icons-shopping-bag&quot;]</value>
+      <webElementGuid>52800c79-c847-4aa5-a48e-05e2958f1af6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>de20dbd4-b562-47ba-bea6-f47edbb6d90d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Phone</name>
+   <tag></tag>
+   <elementGuidId>2bf9ee5e-1c62-4e85-ae04-94c4dfde97cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_phone_field > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_phone_field']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a362803c-fbce-45ba-9fb9-4a55a2a81d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_phone</value>
+      <webElementGuid>0f37029f-c74d-4642-bb6b-0709efd57d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone *</value>
+      <webElementGuid>206789af-8042-4a33-8218-4703574a2233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_phone_field&quot;)/label[1]</value>
+      <webElementGuid>47af5e0d-2ad6-4dde-bb05-1c7c8459cae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_phone_field']/label</value>
+      <webElementGuid>6f53b37e-8ba7-42ca-9899-d1254e3a7eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::label[1]</value>
+      <webElementGuid>8e02e925-818e-4f4d-8211-1c97f2b9f992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[10]/label</value>
+      <webElementGuid>4350757b-dc7d-4286-b733-bbeb00346323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Phone *' or . = 'Phone *')]</value>
+      <webElementGuid>8cfd6a50-7d80-4c1a-9afc-9388c3833324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
